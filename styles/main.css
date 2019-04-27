@@ -1,0 +1,24 @@
+/* Descomentar para desarrollar */
+
+* {
+    border: 1px solid black;
+}
+
+html, body {
+    height: 100%;
+    margin: 0px;
+}
+.cabecera {
+    height: 30%;
+}
+.cuerpo {
+    height: 60%;
+}
+.pie {
+    height: 10%;
+}
+.contenido {
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 110%;
+}
